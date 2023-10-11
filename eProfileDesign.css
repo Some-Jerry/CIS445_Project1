@@ -1,15 +1,17 @@
 * {
     background-color: lavenderblush;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
 }
 
 h1 {
     text-align: left;
+    color:darkred;
 } 
 
 h2 {
     text-align: center;
-    
+    color:orangered
 }
 
 table {
@@ -25,6 +27,9 @@ th,td,tr {
     width: 125px;
 }
 
+button {
+    background-color: black;
+}
 .center {
     margin-left: auto;
     margin-right: auto;
